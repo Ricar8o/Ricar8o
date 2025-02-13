@@ -11,7 +11,7 @@ I'm a passionate developer with a love for coding and learning new technologies.
 - **Cloud:** AWS, Azure
 
 ## 📈 GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ricar8o&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ricar8o&theme=radical&title=-Stars,-Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ricar8o&layout=compact&theme=radical)
 
